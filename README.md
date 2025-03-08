@@ -29,11 +29,15 @@
 
 - **Languages**:
   	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a>
+   	&nbsp;
       	<a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/> </a>
+       	&nbsp;
        	<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+	&nbsp;
   	<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
    	&nbsp;
    	<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+    	&nbsp;
   
 - **Front-End Development**:
 
