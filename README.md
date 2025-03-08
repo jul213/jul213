@@ -15,11 +15,8 @@
 
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
+- 💬 Ask me about Python
 - 📫 How to reach me: Contact part
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never thought I would become a .net programmer!
 
 <br>
 
