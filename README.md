@@ -3,12 +3,12 @@
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Julio&color=brightgreen" alt="watching_count" />
- </p>
+</p>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
- <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
@@ -28,15 +28,13 @@
 <p align="center">
 
 - **Languages**:
-    
-     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
-     <img src="https://user-images.githubusercontent.com/64439609/212555825-672e5eb6-4291-490e-8831-c9c2871187b2.png" width="40" height="40" alt="C++"/>
-     <img src="https://user-images.githubusercontent.com/64439609/212556324-605af631-d983-4025-b6a4-d56d264b9c44.png" width="40" height="40" alt="Java"/>
-     <img src="https://user-images.githubusercontent.com/64439609/212556419-0d80416f-689a-463b-a82b-78ebd4d0b98a.png" width="40" height="40" alt="Python"/>
-     <img src="https://user-images.githubusercontent.com/64439609/212556482-9c26c06e-4b4e-47fc-b426-d8f0f5184a10.png" width="40" height="40" alt="TypeScript"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/64439609/212555825-672e5eb6-4291-490e-8831-c9c2871187b2.png" width="40" height="40" alt="C++"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556324-605af631-d983-4025-b6a4-d56d264b9c44.png" width="40" height="40" alt="Java"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556419-0d80416f-689a-463b-a82b-78ebd4d0b98a.png" width="40" height="40" alt="Python"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556482-9c26c06e-4b4e-47fc-b426-d8f0f5184a10.png" width="40" height="40" alt="TypeScript"/>
 
 - **Front-End Development**:
-
    <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
    <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
    <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
@@ -47,7 +45,6 @@
    <img src="https://user-images.githubusercontent.com/64439609/212556926-24968209-99fd-46be-9679-7383a4c3477d.png" width="40" height="40" alt="Express"/>
 
 - **Softwares and Tools**:
-
     <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
@@ -55,7 +52,6 @@
 
 <br>
 </p>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -65,11 +61,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=juan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juan&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
+
 </div>
-
-
 
 -----
 
@@ -91,4 +84,5 @@
       </div>
 
 </p>
+
 
